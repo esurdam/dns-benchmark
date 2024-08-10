@@ -1,6 +1,8 @@
 # DNS Benchmark Tool
 
-This is a simple command-line DNS benchmark tool written in Python. It allows you to measure and compare the performance of different DNS servers for a given domain.
+This is a simple command-line DNS benchmark tool written in Python. It allows you to measure and compare the performance of different DNS servers for a given domain. 
+
+I used it to figure out which DNS server to use on my local network.
 
 ## Features
 
